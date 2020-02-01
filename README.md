@@ -4,6 +4,7 @@ Review of .Net Core
 #### Tasks
 - [x] EntityFrameworkCore Scaffold using MySql
 - [x] EntityFrameworkCore CodeFirst using MySql
+- [ ] Project Asp.Net Core using Razor and EntityFrameworkCore and MySql
 
 
 ##### Scaffold (ReviewNetCore.ConsoleApplicationEFCoreScaffold)
